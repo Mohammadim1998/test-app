@@ -1,1 +1,1 @@
-hello mohammad
+let age  = 28;
