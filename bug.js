@@ -3,4 +3,6 @@ const person = [
     { id: 2, lang: 'c#' },
     { id: 3, lang: 'python' },
     { id: 6, lang: 'Typescript' },
+    { id: 6, lang: 'Typescript' },
+    { id: 4, lang: 'Go' },
 ]
