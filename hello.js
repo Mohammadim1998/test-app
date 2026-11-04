@@ -4,3 +4,4 @@ let university = "Stanford";
 let degree = "Lisence";
 let degree = "Lisence";
 let lang = "Typescript";
+let lang = "Python";
