@@ -5,6 +5,5 @@ const person = [
     { id: 4, lang: 'Go' },
     { id: 5, lang: 'GoLang' },
     { id: 6, lang: 'Typescript' },
-    { id: 7, lang: 'Nodejs' },
-    { id: 8, lang: 'Perl' },
+    { id: 7, lang: 'Nodejs' }
 ]
